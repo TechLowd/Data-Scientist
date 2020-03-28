@@ -5,8 +5,10 @@
     <b>Assignments</b><br>
         <ul>
             <li>
-                    <h3>Insurance factors identification</h3>
-
+                   Insurance factors identification
+            </li> 
+            <li>
+                  Healthcare cost analysis
             </li>            
         </ul>
 

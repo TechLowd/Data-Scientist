@@ -69,4 +69,5 @@ The insurance dataset holds 7 variables and the description of these variables a
 	<li>The committee wants to figure out the reasons for insurance payment increase and decrease. So they have decided to find whether distance, location, bonus, make, and insured amount or claims are affecting the payment or all or some of these are affecting it.&nbsp;</li>
 	<li>The insurance company is planning to establish a new branch office, so they are interested to find at what location, kilometre, and bonus level their insured amount, claims, and payment gets increased. (Hint: Aggregate Dataset)&nbsp;</li>
 	<li>The committee wants to understand what affects their claim rates so as to decide the right premiums for a certain set of situations. Hence, they need to find whether the insured amount, zone, kilometre, bonus, or make affects the claim rates and to what extent.&nbsp;</li>
+    <li>Dataset attached in the Folder</li>
 </ul>
