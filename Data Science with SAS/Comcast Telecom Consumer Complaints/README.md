@@ -1,6 +1,4 @@
-<h1>Data Scientist Assignments </h1>
-
-Comcast Telecom Consumer Complaints
+<h1>Comcast Telecom Consumer Complaints - Data Scientist Assignments </h1>
 
 
 <div _ngcontent-bjs-c42=""><p>Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them a $2.3 million, after receiving&nbsp;over 1000 consumer complaints.<br>
