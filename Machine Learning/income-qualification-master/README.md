@@ -1,5 +1,5 @@
 <h1>Data Scientist Assignments </h1>
-<h3>Machine Learning Assignments Income Qualification<br>
+<h3>Machine Learning Assignments Income Qualification</h3><br>
 <div _ngcontent-hif-c48="" class="project-description sl-ck-editor"><p _ngcontent-hif-c48="">DESCRIPTION</p><div _ngcontent-hif-c48=""><p>Identify the level of income qualification needed for the families in Latin America.</p>
 
 <p><strong>Problem Statement Scenario:</strong><br>
